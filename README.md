@@ -1,5 +1,5 @@
 # Biomed-DS-Test
-### Answers for the Progrramming Interview (Biomedical Data Science programme)
+### Answers for the Programming Interview (Biomedical Data Science programme)
 
 #### Question 1 - Biological Robustness and Fragility essay
 #### Question 2 - Enzymes Kinetics answers in a form of jupyter notebook
